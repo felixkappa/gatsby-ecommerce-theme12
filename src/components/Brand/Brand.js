@@ -12,7 +12,7 @@ const Brand = (props) => {
     >
       {/* <h4>titulos</h4> */}
       
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Friedrich-Johann-Justin-Bertuch_Mythical-Creature-Dragon_1806.jpg/1200px-Friedrich-Johann-Justin-Bertuch_Mythical-Creature-Dragon_1806.jpg" alt="Descripción de la imagen">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Friedrich-Johann-Justin-Bertuch_Mythical-Creature-Dragon_1806.jpg/1200px-Friedrich-Johann-Justin-Bertuch_Mythical-Creature-Dragon_1806.jpg" alt="Descripción de la imagen"/>
 
         
     </div>
